@@ -1,0 +1,18 @@
+.main-about-text{
+    font-weight: 400;
+    font-size: 26px;
+}
+.text-muted{
+    font-weight: 300;
+}
+.list-title{
+    font-size: 22px;
+}
+.contact__item-title,
+.contact__agree-title {
+    font-size: 16px;
+    color: #666;
+}
+.contact__agree-title {
+    display: flex;
+}
